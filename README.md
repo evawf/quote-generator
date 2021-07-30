@@ -1,2 +1,2 @@
 # Random Quote Generator
-Check here to view the webpage: [here](https://evawf.github.io/quote-generator/)
+Click [here](https://evawf.github.io/quote-generator/) to view the webpage: 
